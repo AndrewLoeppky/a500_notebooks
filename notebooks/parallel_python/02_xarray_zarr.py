@@ -203,3 +203,5 @@ ax4.hist(Tprime200)
 ax4.set(title="histogram ot T' at z=200 m");
 
 
+
+# %%
